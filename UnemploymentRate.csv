@@ -1,4 +1,4 @@
-Area Name,Year,Month,Adjusted,LaborForce,Employed,Unemployed,Unemployment Rate(%),Labor Force Participation Rate(%),Employment to Population Rate(%)
+Area Name,Year,Month,Adjusted,Labor Force,Employed,Unemployed,Unemployment Rate(%),Labor Force Participation Rate(%),Employment to Population Rate(%)
 North Carolina,1980,01,Not Seasonally Adjusted,2788405,2634738,153667,5.5,65.6,62.0
 North Carolina,1980,02,Not Seasonally Adjusted,2815303,2643849,171454,6.1,66.1,62.0
 North Carolina,1980,03,Not Seasonally Adjusted,2811899,2652053,159846,5.7,65.9,62.1
