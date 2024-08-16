@@ -32,7 +32,7 @@ We primarly used Federal Reserve Econmic Data(FRED) api to gather most of the da
 - The correlation shows that the lower the mortgage rate the more affordable the housing was.
 - It makes sense now but at first that came as a surprise to use just because we thought of affordability correlation more with house price itself than mortgage rate(as mortgage rate dropped house prices went up making us think that affordability has more to do with mortgage rate)
 
-![Mortgage Rate vs. Housing Affordability](graphs/mortgage_housing_scatter.png)
+![Mortgage Rate vs. Housing Affordability](graphs/mortgage_rate_scatt.png)
 
 ### 3. Trends Found
 **Pandemic vs. Economy**
