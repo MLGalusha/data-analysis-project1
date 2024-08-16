@@ -65,34 +65,39 @@ We primarly used Federal Reserve Econmic Data(FRED) api to gather most of the da
 
 ## How to Run this Project
 
-### Requirements
+### Prerequisites
 
-- Ensure you have Python installed (preferably version 3.6 or higher).
-- Install the necessary Python packages by running the packages specified in the Notebook's imports section. For instance:
+1. **API Key from the Federal Reserve Bank of St. Louis**:
+   - Obtain an API key by following this [link](https://fredaccount.stlouisfed.org/apikeys).
+   - Store the API key in a file named `keys.env` in the project directory.
 
+2. **Python**:
+   - Ensure Python is installed (version 3.6 or higher recommended).
+   - If Python is not installed, download and install it from the [official website](https://www.python.org/downloads/).
+
+3. **Required Python Packages**:
+   - Install the necessary packages using the following command:
      ```bash
      pip install pandas python-dotenv requests matplotlib
      ```
+   - These packages include `pandas` for data manipulation, `python-dotenv` for environment variable management, `requests` for handling HTTP requests, and `matplotlib` for data visualization.
 
-### Running the Notebooks
+### Running the Jupyter Notebooks
 
-First, clone this repository and then open the notebook file you want to see the analysis for in VSCode or with Jupyter Server. See each analysis section above for the direct links to each exploration.
+To explore the analysis provided in this project, follow the steps below to run the Jupyter notebooks.
 
-#### Run with VSCode
+#### Option 1: Using Visual Studio Code (VSCode)
 
-1. Open the notebook in VSCode.
-2. Click `Run All` to run the analysis and view the visualizations.
+1. Clone this repository to your local machine.
+2. Open the desired notebook in VSCode.
+3. Use the "Run All" button to execute all cells and generate the analysis and visualizations.
 
-#### Run with Jupyter Server
+#### Option 2: Using Jupyter Notebook
 
-1. Open the terminal and navigate to the directory containing the notebook
-2. Launch Jupyter Notebook by typing:
-
-     ```bash
-     jupyter notebook
-     ```
-
-3. Open the notebook (`example_workbook_name_here`) in the browser and run the cells.
+1. Open a terminal and navigate to the directory containing the notebook files.
+2. Start the Jupyter Notebook server by running:
+   ```bash
+   jupyter notebook
 
 ## Thoughts
    Working on this project was both a fun and insightful experience. We dug into economic data and learned a lot about how factors like mortgage rates, income, and inflation influence housing affordability. It was fascinating to see how these elements interact and shape the broader economy.
