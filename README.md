@@ -13,7 +13,7 @@ This project aims to analyze the relationship between various economic indicator
 We primarly used Federal Reserve Econmic Data(FRED) api to gather most of the datasets. For the most part the data was relativly clean which was expected since it was federal data. The main issue was FRED's datasets were very small portions of data, so we had to collect a lot of different data sets as well as use statistics to understand the data better.
 
 - [Proposal](https://docs.google.com/document/d/1A5-LTtKCHrmuNyJga9NzKMxSI5OlEouVu_Cpf4sOPb4/edit)
-- [Presentation](https://docs.google.com/presentation/d/1Hqvb2rRlxx34wJOdOkd6x-wsCru26VunCuMzxu0agRI/edit#slide=id.g2f34a2f2839_0_54)
+- [Presentation](https://docs.google.com/presentation/d/1Hqvb2rRlxx34wJOdOkd6x-wsCru26VunCuMzxu0agRI/edit#slide=id.p)
 
 ## Key Findings
 
