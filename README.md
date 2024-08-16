@@ -63,6 +63,37 @@ We primarly used Federal Reserve Econmic Data(FRED) api to gather most of the da
 - Explore policies and how much certain policies affect the econonmy.
 - How the other countries affect the American Economy
 
+## How to Run this Project
+
+### Requirements
+
+- Ensure you have Python installed (preferably version 3.6 or higher).
+- Install the necessary Python packages by running the packages specified in the Notebook's imports section. For instance:
+
+     ```bash
+     pip install pandas python-dotenv requests matplotlib
+     ```
+
+### Running the Notebooks
+
+First, clone this repository and then open the notebook file you want to see the analysis for in VSCode or with Jupyter Server. See each analysis section above for the direct links to each exploration.
+
+#### Run with VSCode
+
+1. Open the notebook in VSCode.
+2. Click `Run All` to run the analysis and view the visualizations.
+
+#### Run with Jupyter Server
+
+1. Open the terminal and navigate to the directory containing the notebook
+2. Launch Jupyter Notebook by typing:
+
+     ```bash
+     jupyter notebook
+     ```
+
+3. Open the notebook (`example_workbook_name_here`) in the browser and run the cells.
+
 ## Thoughts
    Working on this project was both a fun and insightful experience. We dug into economic data and learned a lot about how factors like mortgage rates, income, and inflation influence housing affordability. It was fascinating to see how these elements interact and shape the broader economy.
 
