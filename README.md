@@ -105,3 +105,8 @@ To explore the analysis provided in this project, follow the steps below to run 
    Beyond just crunching numbers, we really sharpened our skills in data analysis and statistics. This project pushed us to think critically, interpret data carefully, and present our findings in a way that makes sense to others.
 
    In the end, we didn’t just answer our initial questions—we also uncovered insights that could guide future research. This project was a great blend of challenge and learning, leaving us with a deeper understanding of both the economy and the power of data.
+
+## Contributors
+<a href="https://github.com/MLGalusha/data-analysis-project1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MLGalusha/data-analysis-project1" />
+</a>
