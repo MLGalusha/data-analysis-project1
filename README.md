@@ -8,6 +8,9 @@ This project aims to analyze the relationship between various economic indicator
 - [Marquez Ward](https://github.com/mdward911)
 - [John Wolfe](https://github.com/j-wolfe5)
 - [Stacy Magwano](https://github.com/stacjstaton)
+<a href="https://github.com/MLGalusha/data-analysis-project1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MLGalusha/data-analysis-project1" />
+</a>
 
 ## Data
 We primarly used Federal Reserve Econmic Data(FRED) api to gather most of the datasets. For the most part the data was relativly clean which was expected since it was federal data. The main issue was FRED's datasets were very small portions of data, so we had to collect a lot of different data sets as well as use statistics to understand the data better.
@@ -105,8 +108,3 @@ To explore the analysis provided in this project, follow the steps below to run 
    Beyond just crunching numbers, we really sharpened our skills in data analysis and statistics. This project pushed us to think critically, interpret data carefully, and present our findings in a way that makes sense to others.
 
    In the end, we didn’t just answer our initial questions—we also uncovered insights that could guide future research. This project was a great blend of challenge and learning, leaving us with a deeper understanding of both the economy and the power of data.
-
-## Contributors
-<a href="https://github.com/MLGalusha/data-analysis-project1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MLGalusha/data-analysis-project1" />
-</a>
